@@ -1,0 +1,50 @@
+Inteligência --> (Plural) -->    [Lógica e matemática]       [Linguística]       [Espacial e Visual]       [Cinestésica]
+                                        |                                                                       |
+                                        |                                                                       |
+                                        v                                                                       v
+                                     [Dados]                                                          [Controle de balanceamento
+                                                                                                      de   um    corpo   físico]
+                                      
+                                   
+
+
+IA 
+ * --> (Percepção)
+ * --> (Raciocínio)
+ * --> (Aprendizado)
+ * --> (Decisão)
+
+
+Ensinado vs Aprendido
+
+Ensinado -->  if (temp > 30) THEN "Ligar AC" {Linhas de código diretas}
+
+Aprendido --> DADOS + RESULTADOS  = REGRAS {Inferência da IA}
+
+
+Percepção --> O que ela vê e percebe
+
+Compreensão --> A capacidade de interpretar intenções, contexto e usar o NLP
+
+NLP = Natural Language Processing 
+
+Decisão e Ação --> A capacidade de tomar decisões sozinha e executar ações de acordo com as entradas
+
+Aprendizado --> Capacidade de evoluir e aprender
+
+Automação Clássica --> Trilha fixa de instruções
+
+Automação Virtual --> Os NPC's não aprendem com o tempo, apenas seguem um script
+
+IA clássica --> Infere dados que ela não tem, podendo aprender e evoluir
+
+A -> B -> C [Automação] (A -> C) {? Não há A -> C; logo não sei o que fazer ?}  [IA clássica] (A -> C) {! Devo ir de A -> B depois B -> C; porque o caminho é A -> C !}
+
+* A Falta de Senso Comum  
+ -- Conceito de gravidade
+ -- Consequências sociais e éticas
+
+ * O sistema avalia um sistema amplo? Em vez de reagir a um único gatilho direto?
+ * Consegue reconhecer padrões?  
+
+# Completar final da aula, matéria faltante #
