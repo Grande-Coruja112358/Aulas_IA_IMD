@@ -1,0 +1,14 @@
+ANI --> Agente de Inteligência Artificial
+                                           Gemini
+1) Entrada
+ (Multimodal) 
+· Texto  · Imagens  ·Áudio  ·Vídeo  ·Código
+
+2) Compreensão da entrada (PLN)  (Contexto)  (Compreensão Semântica da frase) E
+Escolha do que fazer [como responder] (Árvore de decisão)
+
+3) Processamento (Resolução da pergunta / problema estabelecido)
+·Ferramentas Digitais   ·Conhecimento da Internet
+
+4) Geração da resposta 
+·Texto  ·Resumo  ·Análise
