@@ -1,0 +1,6 @@
+árvore de decisão --> Tomada de decisão de como a IA irá agir a partir de certos dados, situações ou demandas
+
+Overfitting --> O sistema decora ao invés de aprender (muitos dados e muitas possibilidades) [árvore lenta]
+Solução: Poda (Retirar ramificações desnescessárias) [Mais fácil de entender]
+White box --> Explicabibilidade [Conseguimos saber exatamente o porquê da decisão] [Precisão mediana]
+Black box --> (Redes Neurais) [Alta precisão] [Não explicabililidade]
