@@ -1,0 +1,38 @@
+Lógica Clássica --> se T > 23: Quente
+                --> se T < 23: Frio
+
+Grau de pertinência != Probabilidade
+0.1 Frio E 0.9 Quente [Não 0.1 de probabilidade de frio e 0.9 de probabilidade de quente]
+^
+|
+|
+v
+Lógica FUZZY
+I. Amostra Crisp
+II. Fuzzyficação
+III. Inferência
+IV. Defuzzificação
+
+
+Se T = 23
+Isso não funciona
+|
+|
+v
+if T < 23:
+  Desligue
+if T > 23:
+  Ligue
+
+
+Defuzzificação
+
+     Centróide
+         |
+         |
+         v
+   /\         /\     
+  /  \       /  \         
+ /  | \     / |  \         
+/   |__\ 0 /__|   \      
+50% frio E 50% quente 
