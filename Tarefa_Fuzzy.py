@@ -5,9 +5,9 @@
 # Código manual experimental
 
 inclinação = float(input("Obtenha o valor de inclinação"))
-motor_peq = 3.09 * N
-motor_med = 6.19 * N
-motor_gra = 12.39 * N
+motor_peq = 3.09
+motor_med = 6.19 
+motor_gra = 12.39 
 # M_inc_p_D; inc_p_D; Neutro; inc_p_E; M_inc_p_E
 # 67% de inclinação no robô == 10,91 N
 # 3,09 N = 9,57°  6,19 N = 19,14°  12,39 N = 38,29°
